@@ -8,7 +8,7 @@ Saya telah banyak menjalani program pelatihan salah satu nya dari [sertifikasi d
 
 Saya juga aktif mengikuti kegiatan Organisasi.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-fathirr-3481b129a/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/mhmmadfthrr14/)ku ya.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
