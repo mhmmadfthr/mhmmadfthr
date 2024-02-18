@@ -2,7 +2,7 @@
 
 <img width="782px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
 
-My Name **Muhammad Fathir R.**
+My Name **Muhammad Fathir R.** <br>
 I am a sixth-semester student majoring in Informatics at AMIKOM University Yogyakarta.<br> 
 I have a high level of enthusiasm and also understand the basics of programming and design.<br>
 if you be interested, just follow my account [Linkedin](https://www.linkedin.com/in/muhammad-fathirr-3481b129a/)
