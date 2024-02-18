@@ -1,20 +1,19 @@
-# Halo semua! 
+<!-- div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> 👋 HI THERE !</div --><!-- TODO: when it will be possible on GitHub -->
 
-Perkenalkan nama saya **Muhammad Fathir R.**.<br>
+<img width="782px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
 
-Saya seorang **Mahasiswa S1** di [Universitas AMIKOM Yogyakarta](https://home.amikom.ac.id/).<br>
+My Name **Muhammad Fathir R.**
+I am a sixth-semester student majoring in Informatics at AMIKOM University Yogyakarta.<br> 
+I have a high level of enthusiasm and also understand the basics of programming and design.<br>
+if you be interested, just follow my account [Linkedin](https://www.linkedin.com/in/muhammad-fathirr-3481b129a/)
 
-Saya telah banyak menjalani program pelatihan salah satu nya dari [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/JLX12KE0GZ72).<br>
-
-Saya juga aktif mengikuti kegiatan Organisasi.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-fathirr-3481b129a/)ku ya.
+### Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br />
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
 ### Github Statistic
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmadfthr&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmadfthr" /> </p>
-<p>
-<a align= "center" href="https://github.com/mhmmadfthr">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmadfthr&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-</p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=mhmmadfthr&count_private=true&theme=radical&show_icons=true" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhmmadfthr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmadfthr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=382px" />
