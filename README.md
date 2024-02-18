@@ -11,4 +11,10 @@ Saya juga aktif mengikuti kegiatan Organisasi.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-fathirr-3481b129a/)ku ya.
   
 ### Github Statistic
-<a href="https://instagram.com/mhmmadfthr._?igshid=YmMyMTA2M2Y="><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhmmadfthr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmadfthr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmadfthr&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmadfthr" /> </p>
+<p>
+<a align= "center" href="https://github.com/mhmmadfthr">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmadfthr&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=mhmmadfthr&count_private=true&theme=radical&show_icons=true" />
