@@ -12,4 +12,4 @@ if you be interested, just follow my account [Linkedin](https://www.linkedin.com
 
 
 | <a href="https://github.com/mhmmadfthr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmadfthr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fathir's github stats" /></a> | <a href="https://github.com/mhmmadfthr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmadfthr&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| -------------- | -------------- |
