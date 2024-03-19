@@ -11,5 +11,5 @@ if you be interested, just follow my account [Linkedin](https://www.linkedin.com
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>  
 
 
-| <a <img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhmmadfthr&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" />a> | <a <img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mhmmadfthr&show_icons=true&count_private=true" /></a> |
+| <a href="https://github.com/mhmmadfthr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmadfthr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fathir's github stats" /></a> | <a href="https://github.com/mhmmadfthr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmadfthr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------- | -------------- |
