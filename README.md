@@ -1,5 +1,5 @@
 My Name **Muhammad Fathir R.** <br>
-I am a sixth-semester student majoring in Informatics at AMIKOM University Yogyakarta.<br> 
+I am a final semester student majoring in Informatics at AMIKOM University Yogyakarta.<br> 
 I have a high level of enthusiasm and also understand the basics of programming and design.<br>
 if you be interested, just follow my account [Linkedin](https://www.linkedin.com/in/muhammad-fathirr-3481b129a/)
 
